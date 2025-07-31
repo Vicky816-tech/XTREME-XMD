@@ -5,7 +5,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "XTREME~XMD~SlhziKrT#ql5jtIG4xjG-KM4aqBuUYK6MTGPnZYfAKLPQ014nQSg",
+SESSION_ID: process.env.SESSION_ID || "XTREME~XMD~PwJBHKTT#llx73cd2TtJY-aVS5r-_ab0ZOYyzpslqP_JYOfDzCUo",
 // add your Session Id 
 AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "false",
 // make true or false status auto seen
@@ -27,7 +27,7 @@ MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/vz98kd.j
 // add custom menu and mention reply image url
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
-BOT_NAME: process.env.BOT_NAME || "𝗫𝗧𝗥𝗘𝗠𝗘-𝗫𝗠𝗗",
+BOT_NAME: process.env.BOT_NAME || "ᐯ丨匚Ҝㄚ ㄒ乇匚卄-𝗫𝗠𝗗",
 // add bot namw here for menu
 STICKER_NAME: process.env.STICKER_NAME || "♪⁠┌⁠|⁠∵⁠|⁠┘⁠♪",
 // type sticker pack name 
@@ -51,7 +51,7 @@ READ_MESSAGE: process.env.READ_MESSAGE || "false",
 // Turn true or false for automatic read msgs
 AUTO_REACT: process.env.AUTO_REACT || "false",
 // make this true or false for auto react on all msgs
-ANTI_BAD: process.env.ANTI_BAD || "false",
+ANTI_BAD: process.env.ANTI_BAD || "true",
 // false or true for anti bad words  
 MODE: process.env.MODE || "public",
 // make bot public-private-inbox-group 
@@ -59,7 +59,7 @@ ANTI_LINK_KICK: process.env.ANTI_LINK_KICK || "true",
 // make anti link true,false for groups 
 AUTO_VOICE: process.env.AUTO_VOICE || "false",
 // make true for send automatic voices
-AUTO_STICKER: process.env.AUTO_STICKER || "true",
+AUTO_STICKER: process.env.AUTO_STICKER || "false",
 // make true for automatic stickers 
 AUTO_REPLY: process.env.AUTO_REPLY || "true",
 // make true or false automatic text reply 
