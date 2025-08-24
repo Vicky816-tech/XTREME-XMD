@@ -5,7 +5,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "XTREME~XMD~X8BCwDxJ#nU2l7ApPUd-RNzODoW6j2lAx61aWsSBkviEChLQtt4c",
+SESSION_ID: process.env.SESSION_ID || "XTREME~XMD~isxyVabA#wStC8d48QROjkIXoJCmCApaQI7vbm4CkNtz-ABovqR0",
 // add your Session Id 
 AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
 // make true or false status auto seen
@@ -15,7 +15,7 @@ AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "false",
 //anticall on/off
    ANTI_CALL: process.env.ANTI_CALL || "true",
 // make true if you want auto reply on status 
-AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*Ꮙ͛ᵢ̼̽ᶜ̼̽ᴷ̼̽ʸ᚜⃝⃘⃟⃠̰̃᚛ᵀ̼̽ᵛ☯*",
+AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*𝚜𝚊𝚜𝚞𝚔𝚎*",
 // set the auto reply massage on status reply  
 ANTI_DELETE: process.env.ANTI_DELETE || "true",
 // set true false for anti delete     
@@ -38,9 +38,9 @@ PREFIX: process.env.PREFIX || ".",
     // Timezone for the auto-bio feature
     TIME_ZONE: process.env.TIME_ZONE || "Asia/Kolkata",  // Change to your preferred timezone
 // add your prifix for bot   
-BOT_NAME: process.env.BOT_NAME || "Ꮙ͛ᵢ̼̽ᶜ̼̽ᴷ̼̽ʸ᚜⃝⃘⃟⃠̰̃᚛ᵀ̼̽ 𝐗𝐌𝐃",
+BOT_NAME: process.env.BOT_NAME || "𝚜𝚊𝚜𝚞𝚔𝚎",
 // add bot namw here for menu
-STICKER_NAME: process.env.STICKER_NAME || "Ꮙ͛ᵢ̼̽ᶜ̼̽ᴷ̼̽ʸ᚜⃝⃘⃟⃠̰̃᚛ᵀ̼̽ᵛ☯",
+STICKER_NAME: process.env.STICKER_NAME || "𝚜𝚊𝚜𝚞𝚔𝚎",
 // type sticker pack name 
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
 // make this true for custum emoji react    
@@ -50,7 +50,7 @@ DELETE_LINKS: process.env.DELETE_LINKS || "true",
 // automatic delete links witho remove member 
 OWNER_NUMBER: process.env.OWNER_NUMBER || "528145550855",
 // add your bot owner number
-OWNER_NAME: process.env.OWNER_NAME || "Ꮙ͛ᵢ̼̽ᶜ̼̽ᴷ̼̽ʸ᚜⃝⃘⃟⃠̰̃᚛ᵀ̼̽ᵛ☯",
+OWNER_NAME: process.env.OWNER_NAME || "𝚜𝚊𝚜𝚞𝚔𝚎☯",
 // add bot owner name
 DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴘʀɪɴᴄᴇ xᴛʀᴇᴍᴇ*",
 // add bot owner name    
